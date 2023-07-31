@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Server URL](https://your-live-site-url.com)
+- Live Site URL: [Live Server URL](https://prasannapandhare.github.io/Single-Price-Grid-Coponent.github.io/)
 
 ## My process
 
